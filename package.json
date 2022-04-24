@@ -2,7 +2,7 @@
   "name": "login-app",
   "version": "1.0.0",
   "scripts": {
-    "install": "cd ./client && yarn && cd .. && ./api && yarn",
+    "install": "cd ./client && yarn && cd .. && cd ./api && yarn",
     "build": "cd ./client && npm run build",
     "start": "cd ./api && npm run start"
   },
