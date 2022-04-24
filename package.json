@@ -1,0 +1,11 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd ./client && npm run build",
+    "start": "cd ./api && npm run start"
+  },
+  "repository": "https://github.com/dominikfucic/login-app",
+  "author": "Dominik Fucic <dominikfucic90@gmail.com>",
+  "license": "MIT"
+}

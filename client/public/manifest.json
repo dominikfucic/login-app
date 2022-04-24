@@ -1,0 +1,8 @@
+{
+  "short_name": "Login App",
+  "name": "Simple Login App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
